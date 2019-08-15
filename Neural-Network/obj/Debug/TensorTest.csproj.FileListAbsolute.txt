@@ -1,0 +1,13 @@
+C:\Users\radus\source\repos\TensorTest\TensorTest\bin\Debug\libtensorflow.dll
+C:\Users\radus\source\repos\TensorTest\TensorTest\bin\Debug\TensorTest.exe.config
+C:\Users\radus\source\repos\TensorTest\TensorTest\bin\Debug\TensorTest.exe
+C:\Users\radus\source\repos\TensorTest\TensorTest\bin\Debug\TensorTest.pdb
+C:\Users\radus\source\repos\TensorTest\TensorTest\bin\Debug\System.ValueTuple.dll
+C:\Users\radus\source\repos\TensorTest\TensorTest\bin\Debug\TensorFlowSharp.dll
+C:\Users\radus\source\repos\TensorTest\TensorTest\bin\Debug\System.ValueTuple.xml
+C:\Users\radus\source\repos\TensorTest\TensorTest\bin\Debug\TensorFlowSharp.xml
+C:\Users\radus\source\repos\TensorTest\TensorTest\obj\Debug\TensorTest.csprojAssemblyReference.cache
+C:\Users\radus\source\repos\TensorTest\TensorTest\obj\Debug\TensorTest.csproj.CoreCompileInputs.cache
+C:\Users\radus\source\repos\TensorTest\TensorTest\obj\Debug\TensorTest.csproj.CopyComplete
+C:\Users\radus\source\repos\TensorTest\TensorTest\obj\Debug\TensorTest.exe
+C:\Users\radus\source\repos\TensorTest\TensorTest\obj\Debug\TensorTest.pdb
